@@ -7,7 +7,7 @@ Apart from my technical skills, I have also improved my soft skills, such as ass
 On this GitHub profile, you will find some of the projects I have worked on during my studies at Henry. I hope they give you an idea of my coding style, creativity, and passion for coding. 
 
 ## 📫 How to reach me
-- LinkedIn: [Lucia Micheloud](https://www.linkedin.com/in/lucia-micheloud/)
+- LinkedIn: [Lucia Micheloud](https://www.linkedin.com/in/lucia-micheloud-300324264/)
 - Email: micheloudrionlucia@gmail.com
 
 Feel free to check out my work and connect with me on LinkedIn! 💻👩‍💼
