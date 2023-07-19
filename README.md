@@ -1,3 +1,4 @@
+![Rosa Morado Profesional Banner LinkedIn](https://github.com/luciamicheloud/luciamicheloud/assets/123605664/ad58faf8-cafc-432b-90f5-27d0f9cfb769)
 # Hi there! 👋
 
 My name is Lucia Micheloud and I'm currently a 19-year-old Full Stack Developer student at Henry. I'm passionate about learning new technologies and building innovative projects. I have some experience working with *JavaScript, React, Redux, Node.js, CSS, HTML, SQL, PostgreSQL, Sequelize* among other tools and frameworks.
