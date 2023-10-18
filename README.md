@@ -1,5 +1,6 @@
-![Rosa Morado Profesional Banner LinkedIn](https://github.com/luciamicheloud/luciamicheloud/assets/123605664/5faf10a7-f742-478c-82f1-32754c41e83e)
-# Hi there! 👋
+![1](https://github.com/luciamicheloud/luciamicheloud/assets/123605664/6dc3a56b-56d7-4de3-aa7e-7df222ceb667)
+# Hi there! 
+👋
 
 I'm currently a 20-year-old Full Stack Developer student at Henry. I'm passionate about learning new technologies and building innovative projects. I have some experience working with *JavaScript, React, Redux, Node.js, CSS, HTML, SQL, PostgreSQL, Sequelize* among other tools and frameworks.
 
